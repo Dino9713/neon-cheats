@@ -1,0 +1,5 @@
+prices:
+
+cheetos: 3 day - 6.99 | 2 week - 19.99 | lifetime - 49.99 |
+tswoof:  3 day - 4.99 | 2 week - 14.99 | lifetime - 43.99 (included with lifetime cheetos) |
+pswoof: 3 day - 14.99 | 2 week - 27.99 | lifetime - 60.99 |
